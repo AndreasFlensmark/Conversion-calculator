@@ -1,8 +1,8 @@
 import math
 
-# Calculates the electronconfiguration of atoms
+# Calculates the electron configuration of atoms
 
-Atomic_number = 50     # number of electrons
+Atomic_number =____     # number of electrons
 
 
 o_name = ['s', 'p', 'd', 'f', 'g']
